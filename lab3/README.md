@@ -86,3 +86,7 @@ Envie para o e-mail: **`eduardo.hernandes@docente.senai.br`**
 1. **Anexo 1:** O arquivo do documento PDCA (`PDCA_chamado_104.txt`).
 2. **Anexo 2:** O arquivo do código Python corrigido (`carrinho_corrigido.py`).
 3. **Assunto do e-mail:** `[Manutenção de Sistemas] Entrega Lab 3 - <Seu Nome Completo>`
+
+## Slide
+[Apresentação](https://docs.google.com/presentation/d/1M99ckKJr4QWhAMWNW8tHOpepRTx5-s95G_YVTTTYZQY/edit?usp=sharing)
+
