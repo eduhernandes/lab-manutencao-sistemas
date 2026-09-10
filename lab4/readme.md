@@ -81,8 +81,7 @@ if __name__ == "__main__":
     try:
         iniciar_servico_pagamento()
     except Exception as e:
-        print(f"
-❌ ERRO ENCONTRADO AO INICIAR: {e}")
+        print(f"❌ ERRO ENCONTRADO AO INICIAR: {e}")
 ```
 
 ### Missão do Desafio:
