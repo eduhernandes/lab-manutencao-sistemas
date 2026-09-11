@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Responda em grupo, com atenção aos temas de **Manutenção de Sistemas**, **Segurança da Informação**, **Ética em IA** e **Governança de Tecnologia**.
+Responda individualmente no caderno, com atenção aos temas de **Manutenção de Sistemas**, **Segurança da Informação**, **Ética em IA** e **Governança de Tecnologia**.
 
 ---
 
