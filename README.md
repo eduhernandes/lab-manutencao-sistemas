@@ -26,6 +26,8 @@ Cada laboratório está organizado em uma pasta dedicada contendo a explicação
 * 🟢 **[Lab 1: Tipos de Manutenção em Software](./lab1/README.md)** — Conceitos fundamentais de manutenção e prática em Python.
 * 🟢 **[Lab 2: Documentação, Procedimentos e Plano de Manutenção com IA](./lab2/README.md)** — Planejamento, documentação técnica e uso de IA para manutenção.
 * 🟢 **[Lab 3: Carrinho de Compras e Refatoração](./lab3/README.md)** — Prática de refatoração, organização e manutenção de código em Python.
+* 🟢 **[Lab 4: Pagamentos e Serviços](./lab4/readme.md)** — Prática de manutenção em serviços, integração de pagamento e foco em ergonomia de uso.
+
 
 ---
 
