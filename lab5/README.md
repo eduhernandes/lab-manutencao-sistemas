@@ -44,11 +44,14 @@ Cada grupo deverá registrar suas principais conclusões e apontar como os temas
 
 ## 📝 Entrega
 
-Os alunos podem entregar o questionário preenchido em formato digital ou impresso, conforme orientação do professor.
+Os alunos podem entregar o questionário preenchido no caderno.
+
+
+<!-- Os alunos podem entregar o questionário preenchido em formato digital ou impresso, conforme orientação do professor.
 
 **Assunto do envio (se solicitado):**
 
-`[Manutenção de Sistemas] Entrega Lab 5 - <Seu Nome Completo>`
+`[Manutenção de Sistemas] Entrega Lab 5 - <Seu Nome Completo>` -->
 
 ---
 
